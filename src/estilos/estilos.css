@@ -1,0 +1,14 @@
+.contenedor-testimonio{
+    height: 368px;
+    width: 1170px;
+    display: flex;
+    margin: 10px 10px 50px;
+    background-color: #ffffff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.contenedor-texto-testimonio{
+    text-justify: auto;
+    text-align: center;
+    justify-content: center;
+}
